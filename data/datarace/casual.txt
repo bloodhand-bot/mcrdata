@@ -1,0 +1,15 @@
+and and > x28 x2 and > x42 x2 and > x18 x17 and > x25 x2 and > x39 x2 and > x14 x13 > x40 x29 > x26 x43 
+and and > x28 x2 and > x32 x2 and > x25 x2 > x14 x13 > x29 x33 
+and and > x42 x2 and > x18 x17 and > x28 x2 and > x32 x2 and > x25 x2 and > x39 x2 and > x14 x13 and > x43 x26 > x40 x29 and > x33 x43 or > x29 x33 > x43 x29 
+and > x18 x17 and > x39 x2 > x14 x13 
+and and > x28 x2 and > x25 x2 and > x43 x26 and > x42 x2 and > x18 x17 and > x39 x2 and > x14 x13 and > x46 x2 > x40 x29 and > x29 x47 > x43 x47 
+and and > x42 x2 and > x18 x17 and > x28 x2 and > x25 x2 and > x39 x2 and > x14 x13 and > x43 x26 and > x46 x2 > x40 x29 and > x47 x29 or > x43 x47 > x29 x43 
+and and > x42 x2 and > x54 x2 and > x18 x17 and > x28 x2 and > x32 x2 and > x25 x2 and > x22 x13 and > x43 x26 and > x46 x2 and and > x47 x43 or > x29 x47 > x43 x29 and and > x33 x29 or > x43 x33 > x29 x43 and > x39 x2 and > x14 x13 and > x36 x17 > x40 x29 and > x29 x55 > x43 x55 
+and and > x42 x2 and > x54 x2 and > x18 x17 and > x28 x2 and > x32 x2 and > x25 x2 and > x22 x13 and > x43 x26 and > x46 x2 and and > x47 x43 or > x29 x47 > x43 x29 and and > x33 x29 or > x43 x33 > x29 x43 and > x39 x2 and > x14 x13 and > x36 x17 > x40 x29 and > x55 x29 or > x43 x55 > x29 x43 
+and > x14 x13 > x2 x25 
+and and > x25 x2 > x14 x13 > x2 x28 
+and and > x28 x2 and > x25 x2 > x14 x13 > x2 x32 
+and and > x18 x17 > x14 x13 > x2 x39 
+and and > x28 x2 and > x25 x2 and > x18 x17 and > x39 x2 and > x14 x13 > x40 x29 > x2 x42 
+and and > x28 x2 and > x25 x2 and > x43 x26 and > x42 x2 and > x18 x17 and > x39 x2 and > x14 x13 > x40 x29 > x2 x46 
+and and > x42 x2 and > x18 x17 and > x28 x2 and > x32 x2 and > x25 x2 and > x22 x13 and > x43 x26 and > x46 x2 and and > x47 x43 or > x29 x47 > x43 x29 and and > x33 x29 or > x43 x33 > x29 x43 and > x39 x2 and > x14 x13 and > x36 x17 > x40 x29 > x2 x54 

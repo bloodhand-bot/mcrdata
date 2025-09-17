@@ -1,0 +1,4 @@
+and > x2 x1 and > x7 x6 > x12 x11 
+and and > x25 x20 and > x12 x11 and > x23 x11 and > x15 x6 and > x2 x1 and > x7 x6 > x30 x1 > x20 x31 
+> x5 x8 
+and > x8 x5 > x5 x16 

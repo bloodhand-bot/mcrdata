@@ -1,0 +1,14 @@
+> x1 x5 
+and > x5 x1 > x1 x7 
+and and > x7 x1 > x5 x1 > x1 x9 
+and and > x9 x1 and > x7 x1 > x5 x1 > x1 x12 
+and and > x7 x1 and > x13 x8 and > x5 x1 and > x9 x1 > x12 x1 > x1 x14 
+> x1 x16 
+and > x16 x1 > x1 x18 
+and and > x16 x1 > x5 x1 > x6 x17 
+and and > x9 x1 and > x7 x1 and > x5 x1 > x12 x1 > x8 x13 
+and and > x7 x1 and > x17 x6 and > x16 x1 and > x5 x1 and > x9 x1 > x12 x1 and > x13 x17 or > x8 x13 > x17 x8 
+and and > x7 x1 and > x13 x8 and > x5 x1 and > x9 x1 and > x14 x1 > x12 x1 > x10 x15 
+and and > x18 x1 and > x7 x1 and > x17 x6 and > x16 x1 and and > x13 x8 or > x17 x13 > x8 x17 and > x5 x1 and > x9 x1 and > x14 x1 > x12 x1 and > x15 x19 or > x10 x15 > x19 x10 
+and > x7 x2 > x4 x9 
+and > x7 x2 and > x9 x11 or > x4 x9 > x11 x4 

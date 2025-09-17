@@ -1,0 +1,595 @@
+and and > x27 x22 and > x47 x45 and > x40 x32 and > x50 x45 and > x24 x22 and > x2 x1 and > x69 x32 and > x8 x4 and > x5 x1 and > x10 x7 > x72 x55 > x77 x79 
+and and > x27 x22 and > x47 x45 and > x40 x32 and > x50 x45 and > x24 x22 and > x79 x77 and > x2 x1 and > x69 x32 and > x8 x4 and > x5 x1 and > x10 x7 > x72 x55 > x77 x82 
+and and > x5 x1 and > x47 x45 and > x72 x55 and > x50 x45 and > x82 x77 and > x61 x7 and > x8 x4 and > x10 x7 and > x98 x55 and > x27 x22 and > x2 x1 and > x101 x87 and > x111 x106 and > x69 x32 and > x95 x32 and > x124 x22 and > x40 x32 and > x79 x77 and > x123 x22 and > x24 x22 and > x12 x4 > x108 x106 > x77 x126 
+and and > x126 x77 and > x5 x1 and > x47 x45 and > x72 x55 and > x50 x45 and > x82 x77 and > x61 x7 and > x8 x4 and > x10 x7 and > x98 x55 and > x27 x22 and > x2 x1 and > x101 x87 and > x111 x106 and > x69 x32 and > x95 x32 and > x124 x22 and > x40 x32 and > x79 x77 and > x123 x22 and > x24 x22 and > x12 x4 > x108 x106 > x77 x127 
+and > x8 x4 and > x2 x1 > x5 x1 
+and > x2 x1 and > x27 x22 and > x24 x22 and > x8 x4 > x5 x1 
+and and > x2 x1 and > x27 x22 and > x24 x22 and > x8 x4 > x5 x1 > x32 x40 
+and > x8 x4 and > x2 x1 and > x5 x1 > x10 x7 
+and and > x27 x22 and > x47 x45 and > x40 x32 and > x50 x45 and > x24 x22 and > x79 x77 and > x2 x1 and > x82 x77 and > x69 x32 and > x8 x4 and > x5 x1 and > x10 x7 > x72 x55 > x32 x95 
+and > x40 x32 and > x2 x1 and > x27 x22 and > x24 x22 and > x8 x4 > x5 x1 
+and > x2 x1 and > x27 x22 and > x5 x1 and > x47 x45 and > x40 x32 and > x50 x45 and > x24 x22 > x8 x4 
+and > x27 x22 and > x24 x22 and > x69 x32 and > x8 x4 and > x2 x1 and > x5 x1 > x10 x7 
+and and > x27 x22 and > x47 x45 and > x40 x32 and > x50 x45 and > x24 x22 and > x79 x77 and > x2 x1 and > x82 x77 and > x69 x32 and > x8 x4 and > x95 x32 and > x5 x1 and > x10 x7 > x72 x55 > x55 x98 
+and > x10 x5 and > x7 x5 > x23 x15 
+and > x10 x5 and > x30 x28 and > x33 x28 and > x7 x5 > x23 x15 
+and > x10 x5 and > x7 x5 > x52 x15 
+and and > x10 x5 and > x30 x28 and > x33 x28 and > x7 x5 and > x23 x15 and > x62 x60 and > x65 x60 and > x52 x15 and > x78 x15 > x55 x38 > x38 x81 
+and > x10 x5 > x7 x5 
+and and > x10 x5 > x7 x5 > x15 x23 
+and and > x10 x5 and > x30 x28 and > x33 x28 and > x7 x5 and > x23 x15 and > x62 x60 and > x65 x60 and > x52 x15 > x55 x38 > x15 x78 
+and and > x10 x5 and > x30 x28 and > x33 x28 and > x7 x5 and > x23 x15 and > x52 x15 > x55 x38 > x60 x62 
+and and > x10 x5 and > x30 x28 and > x33 x28 and > x7 x5 and > x23 x15 and > x62 x60 and > x52 x15 > x55 x38 > x60 x65 
+and and > x94 x89 and > x10 x5 and > x30 x28 and > x33 x28 and > x7 x5 and > x107 x5 and > x91 x89 and > x62 x60 and > x81 x38 and > x78 x15 and > x55 x38 and > x84 x70 and > x106 x5 and > x52 x15 and > x65 x60 > x23 x15 > x60 x109 
+and and > x94 x89 and > x10 x5 and > x30 x28 and > x33 x28 and > x7 x5 and > x107 x5 and > x91 x89 and > x62 x60 and > x81 x38 and > x78 x15 and > x55 x38 and > x84 x70 and > x106 x5 and > x109 x60 and > x52 x15 and > x65 x60 > x23 x15 > x60 x110 
+and and > x23 x18 and > x13 x5 and > x20 x18 and > x42 x5 > x45 x28 > x50 x52 
+and and > x23 x18 and > x13 x5 and > x20 x18 and > x52 x50 and > x42 x5 > x45 x28 > x50 x55 
+and and > x23 x18 and > x71 x28 and > x84 x79 and > x55 x50 and > x20 x18 and > x74 x60 and > x52 x50 and > x45 x28 and > x42 x5 and > x81 x79 and > x68 x5 > x13 x5 > x50 x99 
+and and > x23 x18 and > x71 x28 and > x84 x79 and > x55 x50 and > x20 x18 and > x74 x60 and > x52 x50 and > x45 x28 and > x99 x50 and > x42 x5 and > x81 x79 and > x68 x5 > x13 x5 > x50 x100 
+> x13 x5 
+and > x23 x18 and > x13 x5 > x20 x18 
+> x42 x5 
+and and > x23 x18 and > x13 x5 and > x20 x18 and > x68 x5 and > x52 x50 and > x55 x50 and > x42 x5 > x45 x28 > x28 x71 
+> x5 x13 
+> x5 x42 
+and and > x23 x18 and > x13 x5 and > x20 x18 and > x52 x50 and > x55 x50 and > x42 x5 > x45 x28 > x5 x68 
+and and > x40 x35 and > x14 x12 and > x67 x12 and > x60 x22 and > x57 x52 and > x30 x22 and > x37 x35 and > x66 x12 and > x54 x52 > x17 x12 and > x52 x69 > x63 x69 
+and and > x40 x35 and > x14 x12 and > x67 x12 and > x60 x22 and > x57 x52 and > x30 x22 and > x37 x35 and > x66 x12 and > x54 x52 > x17 x12 and > x69 x52 or > x63 x69 > x52 x63 
+and > x17 x12 > x14 x12 
+and and > x14 x12 > x17 x12 > x22 x30 
+and > x57 x52 > x54 x52 
+and and > x7 x5 and > x10 x5 > x32 x15 > x37 x39 
+and and > x7 x5 and > x10 x5 and > x32 x15 > x39 x37 > x37 x42 
+and and > x32 x15 and > x10 x5 and > x61 x47 and > x58 x15 and > x7 x5 and > x39 x37 and > x68 x66 and > x71 x66 > x42 x37 > x37 x86 
+and and > x32 x15 and > x10 x5 and > x61 x47 and > x58 x15 and > x7 x5 and > x39 x37 and > x68 x66 and > x71 x66 and > x42 x37 > x86 x37 > x37 x87 
+and > x7 x5 > x10 x5 
+and and > x7 x5 and > x10 x5 and > x39 x37 and > x32 x15 > x42 x37 > x15 x58 
+> x5 x22 
+and and > x22 x5 and > x29 x27 > x32 x27 > x5 x48 
+and > x22 x5 > x27 x29 
+and and > x22 x5 > x29 x27 > x27 x32 
+and and > x48 x5 and > x29 x27 and > x51 x37 and > x32 x27 and > x58 x56 and > x22 x5 > x61 x56 > x27 x76 
+and and > x48 x5 and > x29 x27 and > x51 x37 and > x32 x27 and > x58 x56 and > x22 x5 and > x76 x27 > x61 x56 > x27 x77 
+and > x19 x14 > x16 x14 
+and > x36 x31 > x33 x31 
+> x31 x33 
+and > x33 x31 > x31 x36 
+and and > x39 x24 and > x16 x14 and > x19 x14 and > x36 x31 > x33 x31 and > x31 x48 > x42 x48 
+and and > x39 x24 and > x16 x14 and > x19 x14 and > x36 x31 > x33 x31 and > x48 x31 or > x42 x48 > x31 x42 
+and and > x7 x5 and > x10 x5 > x32 x15 > x37 x39 
+and and > x7 x5 and > x10 x5 and > x32 x15 > x39 x37 > x37 x42 
+and and > x58 x15 and > x68 x66 and > x71 x66 and > x32 x15 and > x61 x47 and > x42 x37 and > x10 x5 and > x39 x37 > x7 x5 > x37 x86 
+and and > x58 x15 and > x68 x66 and > x71 x66 and > x32 x15 and > x61 x47 and > x42 x37 and > x86 x37 and > x10 x5 and > x39 x37 > x7 x5 > x37 x87 
+and > x7 x5 > x10 x5 
+and and > x7 x5 and > x10 x5 and > x32 x15 and > x39 x37 > x42 x37 > x15 x58 
+and > x22 x5 > x27 x29 
+and and > x22 x5 > x29 x27 > x27 x32 
+and and > x22 x5 and > x58 x56 and > x32 x27 and > x51 x37 and > x61 x56 and > x29 x27 > x48 x5 > x27 x76 
+and and > x22 x5 and > x58 x56 and > x76 x27 and > x32 x27 and > x51 x37 and > x61 x56 and > x29 x27 > x48 x5 > x27 x77 
+> x5 x22 
+and and > x22 x5 and > x29 x27 > x32 x27 > x5 x48 
+> x31 x33 
+and > x33 x31 > x31 x36 
+and and > x16 x14 and > x39 x24 and > x36 x31 and > x19 x14 > x33 x31 and > x31 x48 > x42 x48 
+and and > x16 x14 and > x39 x24 and > x36 x31 and > x19 x14 > x33 x31 and > x48 x31 or > x42 x48 > x31 x42 
+and > x16 x14 > x19 x14 
+and > x36 x31 > x33 x31 
+> x13 x5 
+and > x20 x18 and > x23 x18 > x13 x5 
+> x42 x5 
+and and > x20 x18 and > x23 x18 and > x13 x5 and > x45 x28 and > x42 x5 and > x55 x50 and > x52 x50 > x68 x5 > x28 x71 
+> x5 x13 
+> x5 x42 
+and and > x20 x18 and > x23 x18 and > x13 x5 and > x45 x28 and > x42 x5 and > x55 x50 > x52 x50 > x5 x68 
+and and > x20 x18 and > x23 x18 and > x13 x5 and > x45 x28 > x42 x5 > x50 x52 
+and and > x20 x18 and > x23 x18 and > x13 x5 and > x45 x28 and > x42 x5 > x52 x50 > x50 x55 
+and and > x20 x18 and > x23 x18 and > x45 x28 and > x84 x79 and > x71 x28 and > x42 x5 and > x81 x79 and > x68 x5 and > x74 x60 and > x55 x50 and > x13 x5 > x52 x50 > x50 x99 
+and and > x20 x18 and > x23 x18 and > x45 x28 and > x84 x79 and > x71 x28 and > x99 x50 and > x42 x5 and > x81 x79 and > x68 x5 and > x74 x60 and > x55 x50 and > x13 x5 > x52 x50 > x50 x100 
+and > x4 x2 > x7 x2 
+and and > x4 x2 > x7 x2 > x13 x21 
+and > x45 x43 > x48 x43 
+and and > x48 x43 and > x4 x2 and > x7 x2 and > x57 x2 and > x51 x13 and > x31 x26 and > x21 x13 and > x58 x2 and > x45 x43 > x28 x26 and > x43 x60 > x54 x60 
+and and > x48 x43 and > x4 x2 and > x7 x2 and > x57 x2 and > x51 x13 and > x31 x26 and > x21 x13 and > x58 x2 and > x45 x43 > x28 x26 and > x60 x43 or > x54 x60 > x43 x54 
+and and > x10 x5 and > x7 x5 > x32 x15 > x37 x39 
+and and > x10 x5 and > x7 x5 and > x39 x37 > x32 x15 > x37 x42 
+and and > x32 x15 and > x7 x5 and > x61 x47 and > x42 x37 and > x39 x37 and > x68 x66 and > x58 x15 and > x71 x66 > x10 x5 > x37 x86 
+and and > x86 x37 and > x32 x15 and > x7 x5 and > x61 x47 and > x42 x37 and > x39 x37 and > x68 x66 and > x58 x15 and > x71 x66 > x10 x5 > x37 x87 
+and > x10 x5 > x7 x5 
+and and > x10 x5 and > x7 x5 and > x32 x15 and > x42 x37 > x39 x37 > x15 x58 
+and > x22 x5 > x27 x29 
+and and > x22 x5 > x29 x27 > x27 x32 
+and and > x22 x5 and > x48 x5 and > x51 x37 and > x32 x27 and > x58 x56 and > x29 x27 > x61 x56 > x27 x76 
+and and > x22 x5 and > x48 x5 and > x51 x37 and > x32 x27 and > x58 x56 and > x29 x27 and > x61 x56 > x76 x27 > x27 x77 
+> x5 x22 
+and and > x22 x5 and > x32 x27 > x29 x27 > x5 x48 
+> x31 x33 
+and > x33 x31 > x31 x36 
+and and > x36 x31 and > x16 x14 and > x33 x31 and > x19 x14 > x39 x24 and > x31 x48 > x42 x48 
+and and > x36 x31 and > x16 x14 and > x33 x31 and > x19 x14 > x39 x24 and > x48 x31 or > x42 x48 > x31 x42 
+and > x19 x14 > x16 x14 
+and > x36 x31 > x33 x31 
+and and > x28 x26 and > x45 x43 and > x57 x3 and > x58 x3 and > x5 x3 and > x31 x26 and > x48 x43 and > x8 x3 and > x51 x13 > x21 x13 and > x43 x60 > x54 x60 
+and and > x28 x26 and > x45 x43 and > x57 x3 and > x58 x3 and > x5 x3 and > x31 x26 and > x48 x43 and > x8 x3 and > x51 x13 > x21 x13 and > x60 x43 or > x54 x60 > x43 x54 
+and > x8 x3 > x5 x3 
+and and > x8 x3 > x5 x3 > x13 x21 
+and > x45 x43 > x48 x43 
+and and > x38 x33 and > x41 x3 and > x35 x33 and > x18 x16 and > x11 x3 > x21 x16 and > x33 x50 > x44 x50 
+and and > x38 x33 and > x41 x3 and > x35 x33 and > x18 x16 and > x11 x3 > x21 x16 and > x50 x33 or > x44 x50 > x33 x44 
+> x3 x11 
+and and > x38 x33 > x35 x33 > x3 x41 
+and > x12 x7 > x17 x19 
+and and > x19 x17 > x12 x7 > x17 x22 
+and and > x79 x77 and > x69 x27 and > x45 x43 and > x38 x27 and > x72 x53 and > x22 x17 and > x66 x7 and > x82 x77 and > x19 x17 and > x12 x7 and > x35 x7 > x48 x43 > x17 x94 
+and and > x79 x77 and > x69 x27 and > x45 x43 and > x38 x27 and > x72 x53 and > x22 x17 and > x66 x7 and > x94 x17 and > x82 x77 and > x19 x17 and > x12 x7 and > x35 x7 > x48 x43 > x17 x95 
+> x12 x7 
+and > x19 x17 and > x12 x7 > x22 x17 
+and and > x22 x17 and > x19 x17 and > x12 x7 > x35 x7 > x27 x38 
+> x66 x7 
+and > x38 x27 and > x22 x17 and > x19 x17 and > x12 x7 > x35 x7 
+and > x45 x43 and > x38 x27 and > x22 x17 and > x19 x17 and > x12 x7 and > x35 x7 > x48 x43 
+and > x22 x17 and > x19 x17 and > x12 x7 and > x66 x7 > x69 x27 
+> x7 x12 
+and and > x22 x17 and > x19 x17 > x12 x7 > x7 x35 
+> x7 x66 
+and > x22 x5 > x27 x29 
+and and > x29 x27 > x22 x5 > x27 x32 
+and and > x29 x27 and > x48 x5 and > x61 x56 and > x51 x37 and > x32 x27 and > x58 x56 > x22 x5 > x27 x76 
+and and > x29 x27 and > x48 x5 and > x61 x56 and > x51 x37 and > x32 x27 and > x58 x56 and > x76 x27 > x22 x5 > x27 x77 
+> x5 x22 
+and and > x32 x27 and > x29 x27 > x22 x5 > x5 x48 
+and > x7 x2 > x4 x2 
+and > x25 x20 > x22 x20 
+> x20 x22 
+and > x22 x20 > x20 x25 
+and and > x25 x20 and > x22 x20 and > x28 x13 and > x7 x2 > x4 x2 and > x20 x37 > x31 x37 
+and and > x25 x20 and > x22 x20 and > x28 x13 and > x7 x2 > x4 x2 and > x37 x20 or > x31 x37 > x20 x31 
+> x20 x22 
+and > x22 x20 > x20 x25 
+and and > x8 x3 and > x25 x20 and > x5 x3 and > x28 x13 > x22 x20 and > x20 x37 > x31 x37 
+and and > x8 x3 and > x25 x20 and > x5 x3 and > x28 x13 > x22 x20 and > x37 x20 or > x31 x37 > x20 x31 
+and > x8 x3 > x5 x3 
+and > x25 x20 > x22 x20 
+and and > x15 x10 > x12 x10 > x3 x18 
+> x10 x12 
+and > x12 x10 > x10 x15 
+and and > x15 x10 and > x18 x3 > x12 x10 and > x10 x27 > x21 x27 
+and and > x15 x10 and > x18 x3 > x12 x10 and > x27 x10 or > x21 x27 > x10 x21 
+> x6 x14 
+> x6 x45 
+> x14 x6 
+and > x21 x19 and > x24 x19 > x14 x6 
+> x45 x6 
+> x5 x22 
+and and > x29 x27 and > x22 x5 > x32 x27 > x5 x48 
+and > x22 x5 > x27 x29 
+and and > x29 x27 > x22 x5 > x27 x32 
+and and > x29 x27 and > x61 x56 and > x32 x27 and > x48 x5 and > x51 x37 and > x58 x56 > x22 x5 > x27 x76 
+and and > x29 x27 and > x61 x56 and > x76 x27 and > x32 x27 and > x48 x5 and > x51 x37 and > x58 x56 > x22 x5 > x27 x77 
+> x20 x22 
+and > x22 x20 > x20 x25 
+and and > x28 x13 and > x25 x20 and > x4 x2 and > x7 x2 > x22 x20 and > x20 x37 > x31 x37 
+and and > x28 x13 and > x25 x20 and > x4 x2 and > x7 x2 > x22 x20 and > x37 x20 or > x31 x37 > x20 x31 
+and > x4 x2 > x7 x2 
+and > x25 x20 > x22 x20 
+> x20 x22 
+and > x22 x20 > x20 x25 
+and and > x22 x20 and > x8 x3 and > x25 x20 and > x5 x3 > x28 x13 and > x20 x37 > x31 x37 
+and and > x22 x20 and > x8 x3 and > x25 x20 and > x5 x3 > x28 x13 and > x37 x20 or > x31 x37 > x20 x31 
+and > x8 x3 > x5 x3 
+and > x22 x20 > x25 x20 
+and and > x15 x10 > x12 x10 > x3 x18 
+> x10 x12 
+and > x12 x10 > x10 x15 
+and and > x18 x3 and > x15 x10 > x12 x10 and > x10 x27 > x21 x27 
+and and > x18 x3 and > x15 x10 > x12 x10 and > x27 x10 or > x21 x27 > x10 x21 
+> x14 x6 
+and > x21 x19 and > x14 x6 > x24 x19 
+> x45 x6 
+> x6 x14 
+> x6 x45 
+and > x10 x5 > x7 x5 
+and and > x10 x5 and > x7 x5 and > x32 x15 and > x39 x37 > x42 x37 > x15 x58 
+and and > x10 x5 and > x7 x5 > x32 x15 > x37 x39 
+and and > x10 x5 and > x7 x5 and > x32 x15 > x39 x37 > x37 x42 
+and and > x61 x47 and > x68 x66 and > x32 x15 and > x58 x15 and > x7 x5 and > x71 x66 and > x10 x5 and > x39 x37 > x42 x37 > x37 x86 
+and and > x61 x47 and > x68 x66 and > x32 x15 and > x58 x15 and > x7 x5 and > x71 x66 and > x10 x5 and > x86 x37 and > x39 x37 > x42 x37 > x37 x87 
+> x5 x22 
+and and > x22 x5 and > x29 x27 > x32 x27 > x5 x48 
+and > x22 x5 > x27 x29 
+and and > x22 x5 > x29 x27 > x27 x32 
+and and > x61 x56 and > x58 x56 and > x51 x37 and > x22 x5 and > x29 x27 and > x48 x5 > x32 x27 > x27 x76 
+and and > x61 x56 and > x58 x56 and > x51 x37 and > x22 x5 and > x76 x27 and > x29 x27 and > x48 x5 > x32 x27 > x27 x77 
+and > x19 x14 > x16 x14 
+and > x36 x31 > x33 x31 
+> x31 x33 
+and > x33 x31 > x31 x36 
+and and > x19 x14 and > x33 x31 and > x36 x31 and > x39 x24 > x16 x14 and > x31 x48 > x42 x48 
+and and > x19 x14 and > x33 x31 and > x36 x31 and > x39 x24 > x16 x14 and > x48 x31 or > x42 x48 > x31 x42 
+and and > x18 x16 and > x41 x3 and > x11 x3 and > x38 x33 and > x21 x16 > x35 x33 and > x33 x50 > x44 x50 
+and and > x18 x16 and > x41 x3 and > x11 x3 and > x38 x33 and > x21 x16 > x35 x33 and > x50 x33 or > x44 x50 > x33 x44 
+> x3 x11 
+and and > x35 x33 > x38 x33 > x3 x41 
+and and > x4 x2 > x7 x2 > x9 x13 
+> x9 x25 
+and and > x7 x2 and > x4 x2 and > x13 x9 and > x32 x30 and > x35 x30 > x25 x9 and > x2 x47 > x16 x47 
+and and > x7 x2 and > x4 x2 and > x13 x9 and > x32 x30 and > x35 x30 > x25 x9 and > x47 x2 or > x16 x47 > x2 x16 
+and > x22 x5 > x27 x29 
+and and > x22 x5 > x29 x27 > x27 x32 
+and and > x22 x5 and > x48 x5 and > x29 x27 and > x32 x27 and > x58 x56 and > x51 x37 > x61 x56 > x27 x76 
+and and > x22 x5 and > x76 x27 and > x48 x5 and > x29 x27 and > x32 x27 and > x58 x56 and > x51 x37 > x61 x56 > x27 x77 
+> x5 x22 
+and and > x22 x5 and > x29 x27 > x32 x27 > x5 x48 
+and > x7 x2 > x4 x2 
+and > x25 x20 > x22 x20 
+> x20 x22 
+and > x22 x20 > x20 x25 
+and and > x28 x13 and > x4 x2 and > x25 x20 and > x7 x2 > x22 x20 and > x20 x37 > x31 x37 
+and and > x28 x13 and > x4 x2 and > x25 x20 and > x7 x2 > x22 x20 and > x37 x20 or > x31 x37 > x20 x31 
+> x20 x22 
+and > x22 x20 > x20 x25 
+and and > x5 x3 and > x25 x20 and > x8 x3 and > x22 x20 > x28 x13 and > x20 x37 > x31 x37 
+and and > x5 x3 and > x25 x20 and > x8 x3 and > x22 x20 > x28 x13 and > x37 x20 or > x31 x37 > x20 x31 
+and > x5 x3 > x8 x3 
+and > x22 x20 > x25 x20 
+> x10 x12 
+and > x12 x10 > x10 x15 
+and and > x12 x10 and > x15 x10 > x18 x3 and > x10 x27 > x21 x27 
+and and > x12 x10 and > x15 x10 > x18 x3 and > x27 x10 or > x21 x27 > x10 x21 
+and and > x12 x10 > x15 x10 > x3 x18 
+> x14 x6 
+and > x24 x19 and > x14 x6 > x21 x19 
+> x45 x6 
+> x6 x14 
+> x6 x45 
+> x3 x11 
+and and > x38 x33 > x35 x33 > x3 x41 
+and and > x38 x33 and > x35 x33 and > x18 x16 and > x41 x3 and > x21 x16 > x11 x3 and > x33 x50 > x44 x50 
+and and > x38 x33 and > x35 x33 and > x18 x16 and > x41 x3 and > x21 x16 > x11 x3 and > x50 x33 or > x44 x50 > x33 x44 
+and and > x7 x2 > x4 x2 > x9 x13 
+> x9 x25 
+and and > x35 x30 and > x25 x9 and > x4 x2 and > x7 x2 and > x13 x9 > x32 x30 and > x2 x47 > x16 x47 
+and and > x35 x30 and > x25 x9 and > x4 x2 and > x7 x2 and > x13 x9 > x32 x30 and > x47 x2 or > x16 x47 > x2 x16 
+and > x5 x3 > x8 x3 
+and and > x5 x3 > x8 x3 > x13 x24 
+and > x5 x3 and > x8 x3 > x24 x13 
+and > x5 x3 and > x8 x3 and > x34 x29 and > x31 x29 > x24 x13 
+and > x5 x3 and > x8 x3 > x55 x13 
+> x3 x5 
+and > x5 x3 > x3 x8 
+and and > x5 x3 and > x68 x63 and > x55 x13 and > x65 x63 and > x31 x29 and > x8 x3 and > x34 x29 and > x58 x39 > x24 x13 > x3 x80 
+and and > x5 x3 and > x68 x63 and > x80 x3 and > x55 x13 and > x65 x63 and > x31 x29 and > x8 x3 and > x34 x29 and > x58 x39 > x24 x13 > x3 x81 
+> x3 x14 
+> x3 x45 
+> x14 x3 
+and > x24 x19 and > x14 x3 > x21 x19 
+> x45 x3 
+and > x17 x15 > x20 x15 
+and and > x20 x15 > x17 x15 > x25 x36 
+and > x60 x58 > x63 x58 
+> x15 x17 
+and > x17 x15 > x15 x20 
+and and > x43 x41 and > x36 x25 and > x17 x15 and > x46 x41 and > x63 x58 and > x20 x15 and > x60 x58 > x66 x25 > x15 x72 
+and and > x43 x41 and > x36 x25 and > x17 x15 and > x46 x41 and > x63 x58 and > x20 x15 and > x60 x58 and > x66 x25 > x72 x15 > x15 x73 
+and and > x43 x41 and > x36 x25 and > x17 x15 and > x73 x15 and > x46 x41 and > x63 x58 and > x20 x15 and > x60 x58 and > x66 x25 > x72 x15 > x69 x75 
+and > x5 x3 > x8 x3 
+> x3 x22 
+and > x19 x17 > x22 x17 
+and > x39 x34 > x36 x34 
+and and > x19 x17 and > x36 x34 and > x39 x34 and > x42 x27 > x22 x17 > x45 x51 
+and and > x12 x10 > x15 x10 > x3 x18 
+> x10 x12 
+and > x12 x10 > x10 x15 
+and and > x18 x3 and > x12 x10 > x15 x10 and > x10 x27 > x21 x27 
+and and > x18 x3 and > x12 x10 > x15 x10 and > x27 x10 or > x21 x27 > x10 x21 
+and and > x4 x2 > x7 x2 > x9 x13 
+> x9 x28 
+and and > x38 x33 and > x7 x2 and > x4 x2 and > x13 x9 and > x28 x9 > x35 x33 > x16 x50 
+> x10 x12 
+and > x12 x10 > x10 x15 
+and and > x12 x10 and > x15 x10 > x18 x3 and > x10 x27 > x21 x27 
+and and > x12 x10 and > x15 x10 > x18 x3 and > x27 x10 or > x21 x27 > x10 x21 
+and and > x15 x10 > x12 x10 > x3 x18 
+and and > x7 x2 > x4 x2 > x9 x13 
+> x9 x28 
+and and > x13 x9 and > x4 x2 and > x28 x9 and > x38 x33 and > x7 x2 > x35 x33 > x16 x50 
+and > x8 x3 > x5 x3 
+> x3 x22 
+and > x19 x17 > x22 x17 
+and > x36 x34 > x39 x34 
+and and > x39 x34 and > x22 x17 and > x42 x27 and > x19 x17 > x36 x34 > x45 x51 
+and and > x12 x10 > x15 x10 > x3 x18 
+> x10 x12 
+and > x12 x10 > x10 x15 
+and and > x15 x10 and > x18 x3 > x12 x10 and > x10 x27 > x21 x27 
+and and > x15 x10 and > x18 x3 > x12 x10 and > x27 x10 or > x21 x27 > x10 x21 
+and and > x4 x2 > x7 x2 > x9 x13 
+> x9 x28 
+and and > x13 x9 and > x28 x9 and > x35 x33 and > x7 x2 and > x38 x33 > x4 x2 > x16 x50 
+> x10 x12 
+and > x12 x10 > x10 x15 
+and and > x18 x3 and > x15 x10 > x12 x10 and > x10 x27 > x21 x27 
+and and > x18 x3 and > x15 x10 > x12 x10 and > x27 x10 or > x21 x27 > x10 x21 
+and and > x15 x10 > x12 x10 > x3 x18 
+and and > x35 x33 and > x4 x2 and > x7 x2 and > x28 x9 and > x13 x9 > x38 x33 > x16 x50 
+and and > x4 x2 > x7 x2 > x9 x13 
+> x9 x28 
+and > x8 x3 > x5 x3 
+> x3 x22 
+and > x19 x17 > x22 x17 
+and > x36 x34 > x39 x34 
+and and > x39 x34 and > x42 x27 and > x36 x34 and > x19 x17 > x22 x17 > x45 x51 
+and > x22 x5 > x27 x29 
+and and > x29 x27 > x22 x5 > x27 x32 
+and and > x29 x27 and > x48 x5 and > x58 x56 and > x22 x5 and > x32 x27 and > x51 x37 > x61 x56 > x27 x76 
+and and > x29 x27 and > x48 x5 and > x58 x56 and > x22 x5 and > x32 x27 and > x51 x37 and > x76 x27 > x61 x56 > x27 x77 
+> x5 x22 
+and and > x29 x27 and > x22 x5 > x32 x27 > x5 x48 
+and > x4 x2 > x7 x2 
+and > x22 x20 > x25 x20 
+> x20 x22 
+and > x22 x20 > x20 x25 
+and and > x22 x20 and > x28 x13 and > x7 x2 and > x4 x2 > x25 x20 and > x20 x37 > x31 x37 
+and and > x22 x20 and > x28 x13 and > x7 x2 and > x4 x2 > x25 x20 and > x37 x20 or > x31 x37 > x20 x31 
+and > x5 x3 > x8 x3 
+and > x22 x20 > x25 x20 
+> x20 x22 
+and > x22 x20 > x20 x25 
+and and > x22 x20 and > x28 x13 and > x8 x3 and > x5 x3 > x25 x20 and > x20 x37 > x31 x37 
+and and > x22 x20 and > x28 x13 and > x8 x3 and > x5 x3 > x25 x20 and > x37 x20 or > x31 x37 > x20 x31 
+> x10 x12 
+and > x12 x10 > x10 x15 
+and and > x18 x3 and > x12 x10 > x15 x10 and > x10 x27 > x21 x27 
+and and > x18 x3 and > x12 x10 > x15 x10 and > x27 x10 or > x21 x27 > x10 x21 
+and and > x12 x10 > x15 x10 > x3 x18 
+> x6 x14 
+> x6 x45 
+> x14 x6 
+and > x24 x19 and > x21 x19 > x14 x6 
+> x45 x6 
+and and > x15 x10 > x12 x10 > x3 x18 
+> x10 x12 
+and > x12 x10 > x10 x15 
+and and > x12 x10 and > x15 x10 > x18 x3 and > x10 x27 > x21 x27 
+and and > x12 x10 and > x15 x10 > x18 x3 and > x27 x10 or > x21 x27 > x10 x21 
+and and > x4 x2 > x7 x2 > x9 x13 
+> x9 x28 
+and and > x38 x33 and > x13 x9 and > x7 x2 and > x35 x33 and > x4 x2 > x28 x9 > x16 x50 
+> x10 x12 
+and > x12 x10 > x10 x15 
+and and > x12 x10 and > x15 x10 > x18 x3 and > x10 x27 > x21 x27 
+and and > x12 x10 and > x15 x10 > x18 x3 and > x27 x10 or > x21 x27 > x10 x21 
+and and > x12 x10 > x15 x10 > x3 x18 
+and and > x28 x9 and > x35 x33 and > x13 x9 and > x38 x33 and > x7 x2 > x4 x2 > x16 x50 
+and and > x4 x2 > x7 x2 > x9 x13 
+> x9 x28 
+and > x5 x3 > x8 x3 
+> x3 x22 
+and > x22 x17 > x19 x17 
+and > x36 x34 > x39 x34 
+and and > x19 x17 and > x39 x34 and > x42 x27 and > x22 x17 > x36 x34 > x45 x51 
+> x3 x14 
+> x3 x45 
+> x14 x3 
+and > x21 x19 and > x24 x19 > x14 x3 
+> x45 x3 
+and and > x24 x13 and > x60 x2 and > x34 x29 and > x54 x13 and > x4 x2 and > x61 x2 and > x51 x46 and > x48 x46 and > x7 x2 > x31 x29 > x57 x63 
+> x2 x4 
+and > x4 x2 > x2 x7 
+and and > x24 x13 and > x34 x29 and > x54 x13 and > x4 x2 and > x51 x46 and > x48 x46 and > x7 x2 > x31 x29 > x2 x60 
+and and > x24 x13 and > x60 x2 and > x34 x29 and > x54 x13 and > x4 x2 and > x51 x46 and > x48 x46 and > x7 x2 > x31 x29 > x2 x61 
+and > x7 x2 > x4 x2 
+and and > x7 x2 > x4 x2 > x13 x24 
+and > x51 x46 > x48 x46 
+and > x8 x3 > x5 x3 
+> x3 x22 
+and and > x39 x34 and > x22 x17 and > x19 x17 and > x36 x34 > x42 x27 > x45 x51 
+and > x22 x17 > x19 x17 
+and > x39 x34 > x36 x34 
+and > x8 x3 > x5 x3 
+> x3 x22 
+and > x22 x17 > x19 x17 
+and > x39 x34 > x36 x34 
+and and > x42 x27 and > x22 x17 and > x19 x17 and > x39 x34 > x36 x34 > x45 x51 
+and > x8 x3 > x5 x3 
+and and > x5 x3 > x8 x3 > x13 x24 
+and > x51 x46 > x48 x46 
+> x3 x5 
+and > x5 x3 > x3 x8 
+and and > x54 x13 and > x34 x29 and > x51 x46 and > x24 x13 and > x31 x29 and > x48 x46 and > x8 x3 > x5 x3 > x3 x60 
+and and > x54 x13 and > x34 x29 and > x51 x46 and > x24 x13 and > x31 x29 and > x48 x46 and > x60 x3 and > x8 x3 > x5 x3 > x3 x61 
+and and > x54 x13 and > x34 x29 and > x51 x46 and > x24 x13 and > x31 x29 and > x48 x46 and > x60 x3 and > x61 x3 and > x8 x3 > x5 x3 > x57 x63 
+and and > x41 x36 and > x24 x19 and > x14 x3 and > x21 x19 and > x44 x3 > x38 x36 > x47 x53 
+> x3 x14 
+and and > x41 x36 > x38 x36 > x3 x44 
+and > x15 x7 > x20 x22 
+and and > x22 x20 > x15 x7 > x20 x25 
+and and > x25 x20 and > x44 x30 and > x51 x49 and > x15 x7 and > x54 x49 and > x22 x20 > x41 x7 > x20 x71 
+and and > x25 x20 and > x44 x30 and > x51 x49 and > x15 x7 and > x54 x49 and > x71 x20 and > x22 x20 > x41 x7 > x20 x72 
+> x7 x15 
+and and > x25 x20 and > x15 x7 > x22 x20 > x7 x41 
+> x3 x22 
+and > x4 x2 > x7 x2 
+and > x22 x20 > x25 x20 
+and and > x4 x2 and > x7 x2 and > x22 x20 and > x28 x13 > x25 x20 > x31 x37 
+and > x5 x3 > x8 x3 
+and > x22 x20 > x25 x20 
+and and > x5 x3 and > x8 x3 and > x22 x20 and > x28 x13 > x25 x20 > x31 x37 
+and and > x18 x3 and > x12 x10 > x15 x10 > x21 x27 
+and and > x15 x10 > x12 x10 > x3 x18 
+> x6 x17 
+> x3 x22 
+and > x7 x2 > x4 x2 
+and > x22 x20 > x25 x20 
+and and > x4 x2 and > x22 x20 and > x7 x2 and > x25 x20 > x28 x13 > x31 x37 
+and > x5 x3 > x8 x3 
+and > x22 x20 > x25 x20 
+and and > x5 x3 and > x28 x13 and > x22 x20 and > x8 x3 > x25 x20 > x31 x37 
+and and > x12 x10 and > x18 x3 > x15 x10 > x21 x27 
+and and > x15 x10 > x12 x10 > x3 x18 
+> x6 x17 
+> x3 x22 
+and > x4 x2 > x7 x2 
+and > x22 x20 > x25 x20 
+and and > x22 x20 and > x28 x13 and > x7 x2 and > x25 x20 > x4 x2 > x31 x37 
+and and > x5 x3 and > x22 x20 and > x25 x20 and > x28 x13 > x8 x3 > x31 x37 
+and > x5 x3 > x8 x3 
+and > x25 x20 > x22 x20 
+and and > x15 x10 and > x18 x3 > x12 x10 > x21 x27 
+and and > x15 x10 > x12 x10 > x3 x18 
+> x6 x17 
+> x10 x12 
+and > x12 x10 > x10 x15 
+and and > x18 x3 and > x15 x10 > x12 x10 and > x10 x27 > x21 x27 
+and and > x18 x3 and > x15 x10 > x12 x10 and > x27 x10 or > x21 x27 > x10 x21 
+and and > x15 x10 > x12 x10 > x3 x18 
+and and > x4 x2 > x7 x2 > x9 x13 
+> x9 x28 
+and and > x7 x2 and > x28 x9 and > x13 x9 and > x35 x33 and > x4 x2 > x38 x33 > x16 x50 
+> x10 x12 
+and > x12 x10 > x10 x15 
+and and > x18 x3 and > x12 x10 > x15 x10 and > x10 x27 > x21 x27 
+and and > x18 x3 and > x12 x10 > x15 x10 and > x27 x10 or > x21 x27 > x10 x21 
+and and > x12 x10 > x15 x10 > x3 x18 
+and and > x38 x33 and > x28 x9 and > x4 x2 and > x13 x9 and > x7 x2 > x35 x33 > x16 x50 
+and and > x4 x2 > x7 x2 > x9 x13 
+> x9 x28 
+and > x8 x3 > x5 x3 
+> x3 x22 
+and > x19 x17 > x22 x17 
+and > x36 x34 > x39 x34 
+and and > x36 x34 and > x39 x34 and > x42 x27 and > x19 x17 > x22 x17 > x45 x51 
+> x3 x22 
+and > x4 x2 > x7 x2 
+and > x22 x20 > x25 x20 
+and and > x22 x20 and > x25 x20 and > x7 x2 and > x28 x13 > x4 x2 > x31 x37 
+and and > x22 x20 and > x25 x20 and > x28 x13 and > x8 x3 > x5 x3 > x31 x37 
+and > x5 x3 > x8 x3 
+and > x25 x20 > x22 x20 
+and and > x15 x10 > x12 x10 > x3 x18 
+and and > x15 x10 and > x12 x10 > x18 x3 > x21 x27 
+> x6 x17 
+and > x5 x3 > x8 x3 
+> x3 x22 
+and > x22 x17 > x19 x17 
+and > x36 x34 > x39 x34 
+and and > x36 x34 and > x19 x17 and > x22 x17 and > x42 x27 > x39 x34 > x45 x51 
+and and > x14 x3 and > x21 x19 and > x38 x36 and > x44 x3 and > x41 x36 > x24 x19 > x47 x53 
+> x3 x14 
+and and > x38 x36 > x41 x36 > x3 x44 
+> x2 x4 
+and > x4 x2 > x2 x7 
+and and > x13 x9 and > x4 x2 > x7 x2 and > x2 x24 > x16 x24 
+and and > x13 x9 and > x4 x2 > x7 x2 and > x24 x2 or > x16 x24 > x2 x16 
+and and > x4 x2 > x7 x2 > x9 x13 
+> x3 x22 
+and and > x28 x13 and > x22 x20 and > x4 x2 and > x25 x20 > x7 x2 > x31 x37 
+and > x7 x2 > x4 x2 
+and > x22 x20 > x25 x20 
+and and > x5 x3 and > x25 x20 and > x8 x3 and > x22 x20 > x28 x13 > x31 x37 
+and > x5 x3 > x8 x3 
+and > x22 x20 > x25 x20 
+and and > x15 x10 > x12 x10 > x3 x18 
+and and > x15 x10 and > x12 x10 > x18 x3 > x21 x27 
+> x6 x17 
+> x3 x22 
+and > x4 x2 > x7 x2 
+and > x25 x20 > x22 x20 
+and and > x4 x2 and > x7 x2 and > x22 x20 and > x28 x13 > x25 x20 > x31 x37 
+and and > x8 x3 and > x5 x3 and > x28 x13 and > x25 x20 > x22 x20 > x31 x37 
+and > x8 x3 > x5 x3 
+and > x25 x20 > x22 x20 
+and and > x15 x10 and > x18 x3 > x12 x10 > x21 x27 
+and and > x15 x10 > x12 x10 > x3 x18 
+> x6 x17 
+and and > x44 x3 and > x14 x3 and > x41 x36 and > x24 x19 and > x38 x36 > x21 x19 > x47 x53 
+> x3 x14 
+and and > x41 x36 > x38 x36 > x3 x44 
+and and > x4 x2 > x7 x2 > x9 x13 
+> x2 x4 
+and > x4 x2 > x2 x7 
+and and > x13 x9 and > x7 x2 > x4 x2 and > x2 x24 > x16 x24 
+and and > x13 x9 and > x7 x2 > x4 x2 and > x24 x2 or > x16 x24 > x2 x16 
+and and > x15 x10 > x12 x10 > x3 x18 
+and and > x18 x3 and > x15 x10 > x12 x10 > x21 x27 
+and and > x7 x2 and > x13 x9 > x4 x2 > x16 x24 
+and and > x4 x2 > x7 x2 > x9 x13 
+and and > x15 x10 and > x18 x3 > x12 x10 > x21 x27 
+and and > x15 x10 > x12 x10 > x3 x18 
+and and > x7 x2 > x4 x2 > x9 x13 
+and and > x13 x9 and > x7 x2 > x4 x2 > x16 x24 
+and and > x15 x10 > x12 x10 > x3 x18 
+and and > x15 x10 and > x12 x10 > x18 x3 > x21 x27 
+and and > x7 x2 > x4 x2 > x9 x13 
+and and > x7 x2 and > x4 x2 > x13 x9 > x16 x24 
+and and > x12 x10 > x15 x10 > x3 x18 
+and and > x18 x3 and > x12 x10 > x15 x10 > x21 x27 
+and and > x13 x9 and > x7 x2 > x4 x2 > x16 x24 
+and and > x7 x2 > x4 x2 > x9 x13 
+and and > x18 x3 and > x15 x10 > x12 x10 > x21 x27 
+and and > x15 x10 > x12 x10 > x3 x18 
+and and > x4 x2 > x7 x2 > x9 x13 
+and and > x7 x2 and > x13 x9 > x4 x2 > x16 x24 
+and and > x12 x10 and > x15 x10 > x18 x3 > x21 x27 
+and and > x12 x10 > x15 x10 > x3 x18 
+and and > x7 x2 > x4 x2 > x9 x13 
+and and > x13 x9 and > x7 x2 > x4 x2 > x16 x24 
+> x3 x22 
+and and > x28 x13 and > x7 x2 and > x4 x2 and > x22 x20 > x25 x20 > x31 x37 
+and > x4 x2 > x7 x2 
+and > x25 x20 > x22 x20 
+and and > x25 x20 and > x5 x3 and > x22 x20 and > x28 x13 > x8 x3 > x31 x37 
+and > x5 x3 > x8 x3 
+and > x22 x20 > x25 x20 
+and and > x12 x10 > x15 x10 > x3 x18 
+and and > x12 x10 and > x15 x10 > x18 x3 > x21 x27 
+> x6 x17 
+and and > x18 x3 and > x12 x10 > x15 x10 > x21 x27 
+and and > x12 x10 > x15 x10 > x3 x18 
+and and > x4 x2 and > x13 x9 > x7 x2 > x16 x24 
+and and > x7 x2 > x4 x2 > x9 x13 
+and and > x12 x10 and > x18 x3 > x15 x10 > x21 x27 
+and and > x15 x10 > x12 x10 > x3 x18 
+and and > x7 x2 and > x13 x9 > x4 x2 > x16 x24 
+and and > x4 x2 > x7 x2 > x9 x13 
+> x3 x22 
+and and > x22 x20 and > x28 x13 and > x25 x20 and > x4 x2 > x7 x2 > x31 x37 
+and > x4 x2 > x7 x2 
+and > x25 x20 > x22 x20 
+and and > x8 x3 and > x25 x20 and > x28 x13 and > x5 x3 > x22 x20 > x31 x37 
+and > x5 x3 > x8 x3 
+and > x25 x20 > x22 x20 
+and and > x15 x10 > x12 x10 > x3 x18 
+and and > x18 x3 and > x15 x10 > x12 x10 > x21 x27 
+> x6 x17 
+and and > x18 x3 and > x12 x10 > x15 x10 > x21 x27 
+and and > x12 x10 > x15 x10 > x3 x18 
+and and > x4 x2 > x7 x2 > x9 x13 
+and and > x7 x2 and > x4 x2 > x13 x9 > x16 x24 
+and and > x12 x10 > x15 x10 > x3 x18 
+and and > x15 x10 and > x12 x10 > x18 x3 > x21 x27 
+and and > x7 x2 and > x13 x9 > x4 x2 > x16 x24 
+and and > x7 x2 > x4 x2 > x9 x13 
+and and > x12 x10 > x15 x10 > x3 x18 
+and and > x12 x10 and > x15 x10 > x18 x3 > x21 x27 
+and and > x13 x9 and > x4 x2 > x7 x2 > x16 x24 
+and and > x4 x2 > x7 x2 > x9 x13 
+and and > x12 x10 > x15 x10 > x3 x18 
+and and > x15 x10 and > x18 x3 > x12 x10 > x21 x27 
+and and > x4 x2 and > x13 x9 > x7 x2 > x16 x24 
+and and > x4 x2 > x7 x2 > x9 x13 
+and and > x12 x10 > x15 x10 > x3 x18 
+and and > x18 x3 and > x12 x10 > x15 x10 > x21 x27 
+and and > x7 x2 > x4 x2 > x9 x13 
+and and > x4 x2 and > x7 x2 > x13 x9 > x16 x24 
+and and > x12 x10 and > x15 x10 > x18 x3 > x21 x27 
+and and > x15 x10 > x12 x10 > x3 x18 
+and and > x7 x2 and > x13 x9 > x4 x2 > x16 x24 
+and and > x7 x2 > x4 x2 > x9 x13 
+and and > x15 x10 > x12 x10 > x3 x18 
+and and > x12 x10 and > x15 x10 > x18 x3 > x21 x27 
+and and > x7 x2 > x4 x2 > x9 x13 
+and and > x13 x9 and > x7 x2 > x4 x2 > x16 x24 
+and and > x18 x3 and > x15 x10 > x12 x10 > x21 x27 
+and and > x15 x10 > x12 x10 > x3 x18 
+and and > x13 x9 and > x7 x2 > x4 x2 > x16 x24 
+and and > x7 x2 > x4 x2 > x9 x13 
